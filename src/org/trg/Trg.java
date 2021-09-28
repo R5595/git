@@ -33,7 +33,7 @@ public static void main(String[] args) throws InterruptedException {
 	
 	}
 
-	public void tc() {
+	public void tc1() {
 		System.out.println("yes");
 	}
 }
