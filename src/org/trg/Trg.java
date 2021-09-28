@@ -32,4 +32,8 @@ public static void main(String[] args) throws InterruptedException {
 	System.out.println(driver.getCurrentUrl());
 	
 	}
+
+	public void tc() {
+		System.out.println("yes");
+	}
 }
