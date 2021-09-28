@@ -29,6 +29,7 @@ public class Omega {
 				System.out.println(list1.get(i).getText());
 			}
 			
+			
 		}
 		
 
@@ -62,6 +63,7 @@ public class Omega {
 		 Select s = new Select(select);
 		 List<WebElement> allSelectedOptions = s.getAllSelectedOptions();  
 		
-
+		 
+		 
 	}
 }
